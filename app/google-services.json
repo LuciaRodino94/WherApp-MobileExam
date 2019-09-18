@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "205219163783",
+    "firebase_url": "https://mobile-exam-56e63.firebaseio.com",
+    "project_id": "mobile-exam-56e63",
+    "storage_bucket": "mobile-exam-56e63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205219163783:android:58fa80c5a5aa52172b9222",
+        "android_client_info": {
+          "package_name": "com.example.mobile_exam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205219163783-d71ipfaq62fn5ls1rsagvmadh65i9pag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIe_oQY2TfvvsXF0EwnYVP9LtpOrgUBA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205219163783-d71ipfaq62fn5ls1rsagvmadh65i9pag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
