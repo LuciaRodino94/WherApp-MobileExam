@@ -26,7 +26,11 @@ The **main** functionality of this app are:
 + background trakking
 + customized users icons markers
 
+# Backend
 
+For what concerns the backend of this app, I've used used Firebase:
+
+I've created a Firebase Project, I've linked it with the Android studio project, together with an API key in order to use google maps SDK; then I've created a Firestore Database to keep track of users, their messages and to update their positions in real time.
 
 
 
