@@ -8,13 +8,13 @@ This application has been developed for the exam "Mobile Application and Cloud C
 
 (prof. Roberto Beraldi, Università La Sapienza)
 
-# Project 
+## Project 
 
 + **Android Studio**
 + **Google Map SDK**
 + **Firestore Database**
 
-# Android Application
+### Android Application
 
 The Android App displays customized markers for every user and traks their position using "Android Maps SDK"
 
@@ -26,7 +26,7 @@ The **main** functionality of this app are:
 + background trakking
 + customized users icons markers
 
-# Backend
+### Backend
 
 For what concerns the backend of this app, I've used used Firebase:
 
