@@ -8,6 +8,8 @@ This application has been developed for the exam "Mobile Application and Cloud C
 
 (prof. Roberto Beraldi, Università La Sapienza)
 
+[Slide Presentation](https://www.slideshare.net/LuciaRodin/mobile-application-and-cloud-computing-exam)
+
 ## Project 
 
 + **Android Studio**
