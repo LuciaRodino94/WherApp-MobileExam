@@ -30,7 +30,7 @@ The **main** functionality of this app are:
 
 <a href="https://ibb.co/DLF65rd"><img src="https://i.ibb.co/1bNp8zc/app-screen1.png" height="600" width="1500"></a>
 
-<a href="https://ibb.co/hg2f8J7"><img src="https://i.ibb.co/MgP6Nx2/app-screen2.png"></a>
+<a href="https://ibb.co/hg2f8J7"><img src="https://i.ibb.co/MgP6Nx2/app-screen2.png" height="600" width="1500"></a>
 
 ## Backend
 
