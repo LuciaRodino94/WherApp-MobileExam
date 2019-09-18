@@ -28,7 +28,7 @@ The **main** functionality of this app are:
 
 ### Application screens
 
-![alt text](https://ibb.co/DLF65rd/app_screen1.png)
+![alt text](https://i.ibb.co/1bNp8zc/app-screen1.png)
 
 ## Backend
 
