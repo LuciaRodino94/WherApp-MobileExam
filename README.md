@@ -14,7 +14,7 @@ This application has been developed for the exam "Mobile Application and Cloud C
 + **Google Map SDK**
 + **Firestore Database**
 
-### Android Application
+## Android Application
 
 The Android App displays customized markers for every user and traks their position using "Android Maps SDK"
 
@@ -26,12 +26,15 @@ The **main** functionality of this app are:
 + background trakking
 + customized users icons markers
 
-### Backend
+### Application screens
+
+![alt text](https://ibb.co/DLF65rd)
+
+## Backend
 
 For what concerns the backend of this app, I've used used Firebase:
 
 I've created a Firebase Project, I've linked it with the Android studio project, together with an API key in order to use google maps SDK; then I've created a Firestore Database to keep track of users, their messages and to update their positions in real time.
-
 
 
 
