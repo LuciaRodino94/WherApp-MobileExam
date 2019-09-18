@@ -28,7 +28,7 @@ The **main** functionality of this app are:
 
 ### Application screens
 
-<a href="https://ibb.co/DLF65rd"><img src="https://i.ibb.co/1bNp8zc/app-screen1.png" height="400" width="400" alt="app-screen1" border="0"></a><br /><a target='_blank' href='https://it.imgbb.com/'>photo upload</a><br />
+<a href="https://ibb.co/DLF65rd"><img src="https://i.ibb.co/1bNp8zc/app-screen1.png" height="1754" width="1239" alt="app-screen1" border="0"></a><br /><a target='_blank' href='https://it.imgbb.com/'>photo upload</a><br />
 
 ## Backend
 
