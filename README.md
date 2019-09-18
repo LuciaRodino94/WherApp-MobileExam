@@ -2,7 +2,11 @@
  
 ### Abstract 
 
-WherApp is an Android application that permits realtime chat and that tracks the positions of users that are in the same chat group.
+WherApp is an Android application that permits realtime chat and that tracks the positions of users that are in the same chat group. 
+
+This application has been developed for the exam "Mobile Application and Cloud Computing" 
+
+(prof. Roberto Beraldi, Università La Sapienza)
 
 # Project 
 
