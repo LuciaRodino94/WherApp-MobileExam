@@ -21,3 +21,16 @@ The **main** functionality of this app are:
 + track users positions
 + background trakking
 + customized users icons markers
+
+
+
+
+
+
+
+# Contacts	
+
++ Linkedin: [Lucia Rodinò](https://www.linkedin.com/in/lucia-rodinò-b5019815b/)
+
+##	##
+<p align=center><a href="url"><img src="https://preview.ibb.co/ebyZCo/logo_rosso_sapienza.png" ></p>
