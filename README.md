@@ -24,7 +24,7 @@ The **main** functionality of this app are:
 + get users posistions 
 + track users positions
 + background trakking
-+ customized users icons markers
++ customized users icons markers: icons images from -> (https://www.shareicon.net)
 
 ### Application screens
 
