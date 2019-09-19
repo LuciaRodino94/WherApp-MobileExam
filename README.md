@@ -36,9 +36,9 @@ The **main** functionality of this app are:
 ## Backend and Eternal Storage
 
 For what concerns the backend of this app, I've used used Firebase with Firestore Database as external storage. 
-In details:
+<br>In details:
 
-I've created a Firebase Project, I've linked it with the Android studio project, together with an API key in order to use google maps SDK; then I've created a Firestore Database to keep track of users, their messages and to update their positions in real time.
+I've created a Firebase Project, I've linked it with the Android studio project, together with an API key in order to use google maps SDK; then I've created a Firestore Database to keep track of users, their messages and to update their positions in real time. With firebase and the Android Application, I've also managed the authentication of users with email and password.
 
 
 
