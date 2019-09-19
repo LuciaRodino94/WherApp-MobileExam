@@ -33,9 +33,10 @@ The **main** functionality of this app are:
 <a href="https://ibb.co/DLF65rd"><img src="https://i.ibb.co/1bNp8zc/app-screen1.png" height="600" width="1500"></a>
 <a href="https://ibb.co/hg2f8J7"><img src="https://i.ibb.co/MgP6Nx2/app-screen2.png" height="600" width="1500"></a>
 
-## Backend
+## Backend and Eternal Storage
 
-For what concerns the backend of this app, I've used used Firebase:
+For what concerns the backend of this app, I've used used Firebase with Firestore Database as external storage. 
+In details:
 
 I've created a Firebase Project, I've linked it with the Android studio project, together with an API key in order to use google maps SDK; then I've created a Firestore Database to keep track of users, their messages and to update their positions in real time.
 
