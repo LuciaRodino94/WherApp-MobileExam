@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">WherApp</string>
     
-    <string name="google_map_api_key">AIzaSyB5X1zc_myA6Pctmo68F_YGqmI73FeUf0k</string>
+    <string name="google_map_api_key">api key</string>
     <!-- Strings related to login -->
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Password (optional)</string>
